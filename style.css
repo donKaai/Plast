@@ -1,0 +1,49 @@
+body {
+  background-color: lightblue;
+  font-family: monospace;
+}
+
+h1{
+  text-align: center;
+  color: darkred
+}
+
+p{
+  font-weight: lighter;
+  font-style: normal;
+  text-align: right;
+  color: grey;
+  }
+
+.bilde {
+  width: 500px;
+  border-radius:50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+border-style: solid;
+border-color: blue;
+border-width: medium;
+}
+
+.sitat {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+ul {
+  font-weight: bold;
+text-align: left;
+}
+li {
+  text-align: left;
+}
+
+.overskrift {
+font-weight: 900;
+  margin-top: 50px
+}
